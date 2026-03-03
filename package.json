@@ -1,0 +1,21 @@
+{
+  "name": "earth-theme",
+  "displayName": "Earth Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Earth Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Earth Theme-color-theme.json"
+      }
+    ]
+  }
+}
